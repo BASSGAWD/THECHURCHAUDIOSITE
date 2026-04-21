@@ -1,0 +1,116 @@
+
+> rest-express@1.0.0 dev
+> NODE_ENV=development tsx server/index.ts
+
+[1G[0K1:33:35 AM [express] serving on port 5000
+1:33:41 AM [express] GET /api/auth/me 200 in 3ms
+
+
+
+
+
+
+[1;1H[0J[2m1:33:47 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css, /src/components/ui/HolyTablet.tsx[22m
+
+
+
+
+
+
+[1;1H[0J[2m1:33:51 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css, /src/components/ui/HolyTablet.tsx[22m [33m(x2)[39m
+
+
+
+
+
+
+[1;1H[0J[2m1:33:57 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css, /src/components/ui/HolyTablet.tsx[22m [33m(x3)[39m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m1:34:24 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css, /src/components/ui/HolyTablet.tsx[22m [33m(x4)[39m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m1:34:28 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css, /src/components/ui/HolyTablet.tsx[22m [33m(x5)[39m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m1:34:39 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css, /src/components/ui/HolyTablet.tsx[22m [33m(x6)[39m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m1:34:45 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css, /src/components/ui/HolyTablet.tsx[22m [33m(x7)[39m
